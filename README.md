@@ -1,5 +1,6 @@
 # aaaDEMO
 …or create a new repository on the command line
+```
 echo "# aaaDEMO" >> README.md
 git init
 git add README.md
@@ -11,3 +12,4 @@ git push -u origin main
 git remote add origin https://github.com/manojdon777/aaaDEMO.git
 git branch -M main
 git push -u origin main
+```
